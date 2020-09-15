@@ -1,4 +1,11 @@
-### Hi there 👋
+### hello :)
+
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on: finishing my degree haha
+- 🌱 I’m currently studying: computer engineering and spanish at VT! #gokies
+- 💬 Ask me about: #dualscreendevices :heart_eyes:
+- 📫 How to reach me: https://www.linkedin.com/in/kristen-halper/
+- ⚡ Fun fact: like mr. squidward tentacles, I enjoy playing the clarinet :notes:
 
 <!--
 **khalp/khalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
